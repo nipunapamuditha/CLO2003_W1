@@ -1,2 +1,5 @@
 # CLO2003_W1
-2024F-T2_CLOD2003_01 Lab 1
+This is the Week 1 lab for CLO2003 course . Nipuna Karunarathna
+
+
+
